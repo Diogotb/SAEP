@@ -1,0 +1,913 @@
+Questões Simples por IA
+
+1. Lógica de Programação e Algoritmos
+Qual estrutura de controle é usada para repetir uma sequência de instruções até que uma condição seja verdadeira?
+a) Condicional
+b) Repetição
+c) Função
+d) Array
+e) Comando de entrada/saída
+
+
+O que é necessário para normalizar um banco de dados?
+a) Utilizar apenas tabelas
+b) Organizar dados sem redundância
+c) Dividir tabelas em várias partes
+d) Usar um só tipo de dados
+e) Adicionar apenas tabelas relacionais
+
+2. Banco de Dados
+Qual comando SQL é utilizado para criar uma tabela no banco de dados?
+a) CREATE TABLE
+b) SELECT TABLE
+c) INSERT INTO
+d) DROP TABLE
+e) DELETE TABLE
+
+Quais são os principais tipos de linguagens de manipulação de dados?
+a) HTML, CSS e JavaScript
+b) DDL, DML e DCL
+c) PHP, Python e Java
+d) UML e SQL
+e) XML e JSON
+
+3. Programação Orientada a Objetos
+Em Programação Orientada a Objetos, qual conceito representa um "molde" que define as propriedades e métodos de um objeto?
+a) Objeto
+b) Classe
+c) Atributo
+d) Função
+e) Interface
+
+Qual dos conceitos abaixo define a capacidade de uma função ou método ter múltiplas formas?
+a) Abstração
+b) Encapsulamento
+c) Herança
+d) Polimorfismo
+e) Classe
+
+4. Testes de Software
+Qual dos tipos de teste é responsável por verificar se componentes individuais do software funcionam como esperado?
+a) Teste de unidade
+b) Teste de sistema
+c) Teste de aceitação
+d) Teste de integração
+e) Teste de carga
+
+Qual técnica de teste é utilizada para simular a experiência do usuário final ao interagir com o sistema?
+a) Teste de regressão
+b) Teste de sistema
+c) Teste de unidade
+d) Teste de integração
+e) Teste funcional
+
+5. Internet das Coisas (IoT)
+Qual dispositivo é comumente utilizado para conectar sensores a uma rede em aplicações de IoT?
+a) Monitor
+b) Placa Arduino
+c) Scanner
+d) Impressora
+e) Modem
+
+Em um sistema IoT, qual técnica permite a troca de dados entre dispositivos conectados?
+a) Comunicação serial
+b) Interface gráfica
+c) Codificação HTML
+d) Linguagem de marcação
+e) Automação digital
+
+
+6. Estrutura de Dados
+Qual estrutura de dados é mais adequada para implementar uma fila de atendimento?
+a) Array
+b) Lista encadeada
+c) Pilha
+d) Fila
+e) Árvore binária
+
+Em uma árvore binária de busca, qual característica define a organização dos nós?
+a) Cada nó possui um valor único
+b) Os valores dos filhos da esquerda são menores que o nó pai
+c) A árvore não possui duplicatas
+d) Todos os nós têm apenas dois filhos
+e) A ordem dos valores é aleatória
+
+7. Modelagem de Sistemas
+Na UML, qual diagrama é mais utilizado para representar o fluxo de atividades de um processo?
+a) Diagrama de classes
+b) Diagrama de casos de uso
+c) Diagrama de sequência
+d) Diagrama de atividades
+e) Diagrama de componentes
+
+Qual é o principal objetivo da modelagem de sistemas?
+a) Facilitar a codificação
+b) Testar o sistema
+c) Analisar o desempenho do sistema
+d) Representar visualmente a estrutura e o comportamento do sistema
+e) Documentar a linguagem de programação utilizada
+
+8. Programação de Sistemas
+Qual estrutura de controle é usada para interromper a execução de um loop?
+a) Continue
+b) Break
+c) Return
+d) Exit
+e) Stop
+
+Na programação orientada a objetos, qual conceito permite criar uma nova classe a partir de outra existente?
+a) Polimorfismo
+b) Encapsulamento
+c) Herança
+d) Classe abstrata
+e) Interface
+
+9. Banco de Dados e Normalização
+Qual das alternativas representa a primeira forma normal de normalização de dados?
+a) Eliminar redundâncias
+b) Cada tabela deve ter uma chave primária
+c) Cada campo deve ter valores atômicos
+d) Os dados devem estar organizados em colunas
+e) Todos os campos devem ter índices
+
+A operação SQL JOIN é usada para:
+a) Criar uma nova tabela
+b) Dividir tabelas
+c) Combinar dados de duas ou mais tabelas
+d) Remover registros duplicados
+e) Alterar dados em uma tabela
+
+10. Testes de Software
+O que é um teste de caixa preta?
+a) Teste baseado na estrutura interna do código
+b) Teste que analisa o comportamento externo do sistema
+c) Teste realizado pelos desenvolvedores
+d) Teste focado na performance do sistema
+e) Teste voltado para a segurança do sistema
+
+Qual é o objetivo do teste de regressão?
+a) Garantir que o sistema está rápido
+b) Avaliar a segurança do sistema
+c) Verificar se novas alterações não afetam funcionalidades existentes
+d) Testar o sistema após uma longa pausa
+e) Avaliar o design do sistema
+
+11. Segurança e Integridade de Dados
+Qual é o principal objetivo da criptografia de dados em sistemas computacionais?
+a) Reduzir o tempo de execução do programa
+b) Facilitar o armazenamento de dados
+c) Proteger os dados contra acesso não autorizado
+d) Melhorar a usabilidade do sistema
+e) Comprimir os dados para economizar espaço
+
+Qual das opções é considerada uma técnica de autenticação de usuários?
+a) Hashing de senha
+b) Log de atividades
+c) Backup de dados
+d) Teste de desempenho
+e) Backup automático
+
+12. Sistemas Operacionais e Aplicações
+Qual é a principal função de um sistema operacional?
+a) Permitir a programação de aplicativos
+b) Executar tarefas de rede
+c) Gerenciar os recursos de hardware do computador
+d) Compilar programas em linguagem de baixo nível
+e) Fornecer suporte a navegadores
+
+Em um sistema operacional, o que é o gerenciamento de memória?
+a) Controle do armazenamento de arquivos
+b) Atribuição de espaço de memória para processos em execução
+c) Controle de dispositivos de entrada e saída
+d) Execução de tarefas em paralelo
+e) Reorganização de arquivos e pastas
+
+13. Manutenção de Sistemas
+Qual tipo de manutenção de software envolve a adaptação do sistema a um novo ambiente sem alterar suas funcionalidades?
+a) Manutenção corretiva
+b) Manutenção preventiva
+c) Manutenção adaptativa
+d) Manutenção evolutiva
+e) Manutenção de segurança
+
+A documentação de um sistema é essencial para:
+a) Diminuir o tempo de execução do código
+b) Melhorar o design gráfico da interface
+c) Facilitar a correção e atualização do sistema
+d) Reduzir o custo do projeto
+e) Expandir o sistema para novas funcionalidades
+
+14. Metodologias de Desenvolvimento
+Em uma metodologia ágil, qual reunião é usada para refletir sobre o que foi bom e o que pode ser melhorado?
+a) Daily Stand-up
+b) Sprint Planning
+c) Sprint Review
+d) Retrospective
+e) Sprint Backlog
+
+O que é um backlog em um projeto ágil?
+a) Uma lista de tarefas que precisam ser feitas no projeto
+b) Uma reunião de planejamento
+c) Um relatório de desempenho do projeto
+d) O cronograma final do projeto
+e) O design inicial do sistema
+
+15. Internet das Coisas (IoT)
+Qual protocolo de rede é comumente utilizado em dispositivos IoT para comunicação de máquina para máquina?
+a) HTTP
+b) FTP
+c) SMTP
+d) MQTT
+e) POP3
+
+Em IoT, qual sensor pode ser utilizado para medir a temperatura de um ambiente?
+a) Acelerômetro
+b) Giroscópio
+c) Sensor de umidade
+d) Sensor de temperatura
+e) Sensor de pressão
+
+16. Conceitos de Eletrônica e Eletroeletrônica
+Qual unidade de medida é usada para resistência elétrica?
+a) Volt
+b) Ampère
+c) Ohm
+d) Farad
+e) Hertz
+
+Em circuitos digitais, qual componente é usado para armazenar dados temporariamente?
+a) Resistor
+b) Capacitor
+c) Flip-Flop
+d) Diodo
+e) Transistor
+
+17. Desenvolvimento de Aplicações Web
+Qual linguagem é usada para definir o estilo e o layout de uma página web?
+a) HTML
+b) JavaScript
+c) CSS
+d) SQL
+e) Python
+
+Em HTML, a tag <a> é usada para:
+a) Criar um parágrafo
+b) Inserir uma imagem
+c) Criar um link
+d) Definir o cabeçalho
+e) Criar uma tabela
+
+18. Conceitos de Redes de Computadores
+Qual dispositivo é usado para conectar redes diferentes e permitir a comunicação entre elas?
+a) Switch
+b) Modem
+c) Access Point
+d) Roteador
+e) Repetidor
+
+Qual é a função do protocolo TCP/IP em redes?
+a) Garantir a integridade dos dados transmitidos
+b) Proteger dados contra acesso não autorizado
+c) Comprimir dados para economia de banda
+d) Priorizar dados importantes
+e) Monitorar o tráfego de dados
+
+19. Segurança e Teste de Software
+O que é uma falha de segurança conhecida como “buffer overflow”?
+a) Um ataque que utiliza criptografia
+b) Uma falha onde a memória é excedida, podendo causar problemas de segurança
+c) Um método para melhorar a performance do sistema
+d) Uma técnica para proteger dados
+e) Um tipo de teste de carga
+
+Em um teste de penetração, qual é o objetivo do teste?
+a) Avaliar a usabilidade
+b) Medir a performance do sistema
+c) Identificar vulnerabilidades de segurança
+d) Melhorar a interface do sistema
+e) Verificar se o sistema é rápido
+
+20. Integração e Comunicação entre Sistemas
+Qual ferramenta pode ser usada para garantir a troca de dados em tempo real entre diferentes sistemas?
+a) Banco de Dados
+b) API
+c) Servidor FTP
+d) IDE
+e) Editor de Texto
+
+Em um sistema de integração, qual é a principal função de uma API?
+a) Compilar código
+b) Monitorar a rede
+c) Intermediar a comunicação entre diferentes aplicações
+d) Criar backups
+e) Realizar consultas SQL
+
+-- Gabarito Comentado --
+
+1 - b) Repetição
+Comentário: Estruturas de repetição, como "for" e "while", permitem executar um bloco de código várias vezes até que uma condição seja satisfeita.
+
+2 - b) Organizar dados sem redundância
+Comentário: A normalização visa eliminar redundâncias e melhorar a eficiência de um banco de dados, organizando-o em várias tabelas menores.
+
+3 - a) CREATE TABLE
+Comentário: O comando CREATE TABLE é utilizado para criar uma nova tabela em um banco de dados.
+
+4 - b) DDL, DML e DCL
+Comentário: Estas são as principais categorias de SQL. DDL (Definição de Dados), DML (Manipulação de Dados) e DCL (Controle de Dados).
+
+5 - b) Classe
+Comentário: Na orientação a objetos, uma classe define as propriedades e métodos dos objetos que serão instanciados.
+
+6 - d) Polimorfismo
+Comentário: O polimorfismo permite que métodos com o mesmo nome tenham diferentes comportamentos, conforme o contexto.
+
+7 - a) Teste de unidade
+Comentário: Testes de unidade verificam o funcionamento de componentes individuais do software.
+
+8 - e) Teste funcional
+Comentário: Testes funcionais simulam o comportamento do usuário e verificam se as funcionalidades atendem aos requisitos.
+
+9 - b) Placa Arduino
+Comentário: O Arduino é amplamente utilizado para conectar sensores e outros dispositivos em aplicações de IoT.
+
+10 - a) Comunicação serial
+Comentário: Em IoT, a comunicação serial é uma técnica para transmitir dados entre dispositivos conectados.
+
+11 - d) Fila
+Comentário: A estrutura de fila é adequada para representar atendimentos que seguem a ordem de chegada (FIFO).
+
+12 - b) Os valores dos filhos da esquerda são menores que o nó pai
+Comentário: Na árvore binária de busca, cada nó possui à esquerda valores menores e à direita valores maiores.
+
+13 - d) Diagrama de atividades
+Comentário: O diagrama de atividades da UML representa o fluxo de atividades e processos em um sistema.
+
+14 - d) Representar visualmente a estrutura e o comportamento do sistema
+Comentário: A modelagem de sistemas facilita a compreensão e planejamento do funcionamento e das interações do sistema.
+
+15 - b) Break
+Comentário: O comando break interrompe a execução de um loop.
+
+16 - c) Herança
+Comentário: A herança permite que uma classe herde características de outra, promovendo reutilização de código.
+
+17 - c) Cada campo deve ter valores atômicos
+Comentário: Na primeira forma normal, cada coluna deve conter valores indivisíveis.
+
+18 - c) Combinar dados de duas ou mais tabelas
+Comentário: O JOIN é usado para reunir dados relacionados de diferentes tabelas.
+
+19 - b) Teste que analisa o comportamento externo do sistema
+Comentário: Testes de caixa preta verificam as funcionalidades do sistema sem conhecer o código-fonte.
+
+20 - c) Verificar se novas alterações não afetam funcionalidades existentes
+Comentário: Testes de regressão garantem que o sistema ainda funcione corretamente após modificações.
+
+21 - c) Proteger os dados contra acesso não autorizado
+Comentário: A criptografia impede que terceiros não autorizados leiam os dados.
+
+22 - a) Hashing de senha
+Comentário: O hashing é uma técnica de autenticação que armazena senhas em forma de hash para segurança.
+
+23 - c) Gerenciar os recursos de hardware do computador
+Comentário: O sistema operacional gerencia e aloca os recursos do sistema para diferentes tarefas.
+
+24 - b) Atribuição de espaço de memória para processos em execução
+Comentário: O gerenciamento de memória aloca e libera espaço conforme os processos precisam.
+
+25 - c) Manutenção adaptativa
+Comentário: Esse tipo de manutenção adapta o software para novos ambientes sem modificar sua funcionalidade.
+
+26 - c) Facilitar a correção e atualização do sistema
+Comentário: A documentação detalhada ajuda desenvolvedores a entender e atualizar o sistema no futuro.
+
+27 - d) Retrospective
+Comentário: A reunião de retrospectiva em metodologias ágeis serve para refletir sobre o trabalho realizado e identificar melhorias.
+
+28 - a) Uma lista de tarefas que precisam ser feitas no projeto
+Comentário: O backlog contém todas as tarefas pendentes ou planejadas para um projeto ágil.
+
+29 - d) MQTT
+Comentário: O protocolo MQTT é usado para comunicação eficiente em redes IoT, por ser leve e baseado em mensagens.
+
+30 - d) Sensor de temperatura
+Comentário: Este sensor mede a temperatura do ambiente, sendo essencial em várias aplicações IoT.
+
+31 - c) Ohm
+Comentário: A unidade de medida da resistência elétrica é o Ohm (Ω).
+
+32 - c) Flip-Flop
+Comentário: O flip-flop é usado em circuitos digitais para armazenar informações temporárias.
+
+33 - c) CSS
+Comentário: O CSS define o estilo e layout de páginas web.
+
+34 - c) Criar um link
+Comentário: A tag <a> é usada para criar links em HTML.
+
+35 - d) Roteador
+Comentário: O roteador conecta diferentes redes e direciona o tráfego entre elas.
+
+36 - a) Garantir a integridade dos dados transmitidos
+Comentário: O TCP/IP garante que os dados cheguem de forma íntegra ao destinatário.
+
+37 - b) Uma falha onde a memória é excedida, podendo causar problemas de segurança
+Comentário: O buffer overflow ocorre quando o sistema tenta armazenar mais dados do que o espaço alocado.
+
+38 - c) Identificar vulnerabilidades de segurança
+Comentário: O teste de penetração avalia a segurança do sistema, procurando por vulnerabilidades.
+
+39 - b) API
+Comentário: A API permite a comunicação entre diferentes sistemas e possibilita o compartilhamento de dados em tempo real.
+
+40 - c) Intermediar a comunicação entre diferentes aplicações
+Comentário: A principal função de uma API é possibilitar a integração e comunicação entre sistemas diferentes.
+
+=======================================
+Simulado Perguntas Contextualizadas Por IA
+
+1. Banco de Dados e SQL
+Em um sistema de e-commerce com alto volume de dados, foi identificado que consultas complexas estão causando lentidão. Qual das opções a seguir melhor otimiza o desempenho das consultas, considerando a necessidade de acessar dados em várias tabelas e reduzir o uso de recursos do banco?
+a) Aumentar o número de índices nas tabelas principais
+b) Dividir as tabelas em várias colunas para evitar junções
+c) Implementar particionamento de tabelas com base nas categorias de produtos
+d) Executar as consultas no horário de menor uso do sistema
+e) Consolidar todas as informações em uma tabela única
+
+2. Segurança de Sistemas e Criptografia
+Em uma aplicação que manipula dados pessoais sensíveis, é necessária a implementação de uma política de segurança robusta. Qual método abaixo é mais indicado para proteger senhas de usuários e evitar ataques de força bruta e vazamento de informações?
+a) Armazenar as senhas em texto puro para facilitar a autenticação
+b) Utilizar criptografia AES para todas as senhas no banco de dados
+c) Realizar hashing das senhas com SHA-256, sem salt
+d) Armazenar senhas usando hashing com bcrypt e um salt único para cada senha
+e) Realizar backups regulares das senhas em um servidor de backup
+
+3. Estrutura de Dados e Algoritmos
+Em um aplicativo de navegação GPS, qual estrutura de dados é a mais apropriada para representar a rede de estradas e permitir que o sistema encontre o caminho mais curto entre dois pontos?
+a) Lista ligada
+b) Fila
+c) Árvore binária de busca
+d) Grafo ponderado
+e) Pilha
+
+4. Internet das Coisas (IoT) e Protocolos de Comunicação
+Em uma rede IoT de sensores ambientais distribuídos em uma cidade para monitoramento em tempo real, qual protocolo de comunicação é mais eficiente para transmissão de dados leves com baixo consumo de energia?
+a) HTTP
+b) FTP
+c) MQTT
+d) POP3
+e) SNMP
+
+5. Programação Orientada a Objetos (POO)
+Em um sistema de gerenciamento escolar, foi criada uma classe Pessoa que armazena informações gerais e, a partir dela, foram desenvolvidas classes Aluno e Professor. Qual princípio de POO está sendo aplicado para permitir que Aluno e Professor herdem as características de Pessoa?
+a) Encapsulamento
+b) Abstração
+c) Polimorfismo
+d) Herança
+e) Sobrecarga
+
+6. Testes de Software
+Um time de desenvolvimento está implementando um teste para verificar o comportamento do sistema após cada nova atualização, garantindo que funcionalidades antigas continuem funcionando como esperado. Que tipo de teste é este?
+a) Teste de unidade
+b) Teste de integração
+c) Teste de regressão
+d) Teste de carga
+e) Teste de sistema
+
+7. Segurança em Desenvolvimento de Sistemas
+Para proteger uma API RESTful contra ataques de falsificação de requisições entre sites (CSRF), qual das abordagens abaixo é a mais recomendada?
+a) Utilizar HTTPS para criptografar todas as requisições
+b) Implementar tokens CSRF e validar nas requisições autenticadas
+c) Rejeitar todas as requisições POST ao servidor
+d) Usar apenas métodos de autenticação baseados em senha
+e) Aumentar o tempo de expiração do token de autenticação
+
+8. Arquitetura de Sistemas
+Em uma arquitetura de microservices, cada serviço deve ser independente e autônomo. Qual prática é fundamental para que um serviço possa se comunicar de forma eficiente com outros serviços sem comprometer a independência?
+a) Armazenar dados compartilhados em um banco de dados centralizado
+b) Utilizar chamadas diretas com métodos sincronizados entre os serviços
+c) Implementar uma API gateway para orquestrar a comunicação entre os serviços
+d) Compartilhar as credenciais de autenticação entre todos os serviços
+e) Utilizar variáveis globais para o compartilhamento de dados
+
+9. Segurança de Dados
+Uma empresa decidiu adotar criptografia simétrica para proteger dados sensíveis que são armazenados e frequentemente acessados. Qual é uma limitação significativa dessa abordagem?
+a) Exige alta capacidade de armazenamento
+b) Demora muito tempo para descriptografar os dados
+c) Utiliza apenas chaves públicas, limitando a segurança
+d) Requer que a mesma chave seja compartilhada entre remetente e destinatário
+e) Funciona apenas em redes locais
+
+10. Desenvolvimento de Aplicações Web e Front-end
+Durante o desenvolvimento de uma aplicação web, foi implementada uma função para limitar o número de requisições feitas ao servidor em um curto período de tempo para evitar sobrecarga. Como é chamada essa técnica de controle?
+a) Cacheamento
+b) Balanceamento de carga
+c) Rate limiting
+d) Sharding
+e) Compressão de dados
+
+11. Manutenção de Software
+Em um sistema crítico que precisa ser atualizado regularmente, foi necessária a implementação de mudanças que não afetam a funcionalidade do sistema, mas adaptam o software para um novo ambiente de hardware. Que tipo de manutenção de software foi aplicada?
+a) Manutenção corretiva
+b) Manutenção evolutiva
+c) Manutenção preventiva
+d) Manutenção adaptativa
+e) Manutenção de segurança
+
+12. Engenharia de Requisitos
+Durante o levantamento de requisitos para um sistema de vendas, um dos requisitos funcionais foi documentado da seguinte forma: "O sistema deve permitir que os usuários visualizem o histórico de pedidos". Este é um exemplo de:
+a) Requisito não funcional
+b) Requisito de segurança
+c) Requisito de usabilidade
+d) Requisito funcional
+e) Requisito de conformidade
+
+13. Internet das Coisas (IoT) e Segurança
+Em uma aplicação IoT para monitoramento de equipamentos industriais, qual prática é essencial para proteger a comunicação entre dispositivos e o servidor central contra interceptação de dados?
+a) Compressão de dados transmitidos
+b) Implementação de encriptação ponta a ponta
+c) Uso de protocolos de comunicação baseados em HTTP
+d) Utilização de redes Wi-Fi públicas para conexão
+e) Otimização do tempo de resposta da rede
+
+14. Estruturas de Dados e Algoritmos
+Em um sistema de análise de grandes quantidades de dados, qual algoritmo de ordenação é mais indicado para garantir um bom desempenho em grandes volumes de dados com ordem parcialmente organizada?
+a) Bubble Sort
+b) Insertion Sort
+c) Merge Sort
+d) Quick Sort
+e) Selection Sort
+
+15. Arquitetura de Sistemas e APIs
+Para garantir que uma API RESTful forneça uma experiência eficiente aos consumidores, o design deve evitar o excesso de chamadas e minimizar o tráfego. Qual estratégia é ideal para permitir que um cliente obtenha todos os dados relacionados em uma única requisição?
+a) Autenticação JWT
+b) Paginação de resultados
+c) Cacheamento de dados em tempo real
+d) Implementação de endpoints aninhados
+e) Consolidação de dados com requisições GraphQL
+
+16. Programação Orientada a Objetos (POO) e Design Patterns
+Em um sistema de reserva de hotéis, cada quarto pode ter diferentes características e taxas, e é necessário criar objetos com diversas combinações de propriedades. Qual padrão de design de software é mais adequado para lidar com essa situação?
+a) Singleton
+b) Observer
+c) Factory
+d) Builder
+e) Adapter
+
+17. Segurança em Aplicações Web
+Uma aplicação web permite que os usuários realizem operações financeiras, como transferências bancárias. Para prevenir ataques de injeção de SQL, qual prática é mais recomendada na implementação de consultas SQL?
+a) Utilizar variáveis globais para os parâmetros
+b) Inserir diretamente os valores de entrada do usuário nas consultas SQL
+c) Usar Prepared Statements para evitar que os valores do usuário alterem a estrutura da consulta
+d) Adicionar um filtro de caracteres especiais no banco de dados
+e) Executar as consultas em um ambiente de desenvolvimento seguro
+
+18. Algoritmos e Estrutura de Dados
+Em um sistema de mensagens que armazena mensagens temporárias com um limite de tempo, qual estrutura de dados seria ideal para garantir a remoção automática das mensagens após seu tempo expirar?
+a) Lista encadeada
+b) Fila de prioridade
+c) Pilha
+d) Heap
+e) Fila circular
+
+19. Redes e Protocolo de Comunicação
+Em uma aplicação de streaming de vídeo em tempo real, qual protocolo de comunicação é mais adequado para garantir baixa latência e uma transmissão contínua, ainda que com possíveis perdas de dados?
+a) TCP
+b) UDP
+c) FTP
+d) HTTP
+e) POP3
+
+20. Testes de Software e Controle de Qualidade
+Em um processo de desenvolvimento ágil, qual técnica de teste contínuo ajuda a identificar rapidamente problemas no código recém-desenvolvido, integrando-o automaticamente com o código existente?
+a) Teste de regressão manual
+b) Teste de integração periódico
+c) Teste de unidade assíncrono
+d) Integração contínua (CI)
+e) Teste de carga pontual
+
+21. Segurança e Criptografia de Dados
+Em uma organização, os arquivos são armazenados em um sistema de armazenamento em nuvem, mas é essencial garantir a privacidade dos dados mesmo que o provedor da nuvem não tenha acesso. Qual técnica de criptografia é ideal para essa situação?
+a) Criptografia simétrica
+b) Criptografia de chave pública (assimétrica)
+c) Criptografia homomórfica
+d) Criptografia de chaves substituíveis
+e) Criptografia de curto prazo
+
+22. Banco de Dados e Modelagem
+Em um sistema bancário que requer alta integridade e prevenção contra duplicação de dados, qual nível de normalização é mais indicado para garantir que os dados relacionados a transações estejam livres de dependências funcionais parciais?
+a) Primeira forma normal (1NF)
+b) Segunda forma normal (2NF)
+c) Terceira forma normal (3NF)
+d) Forma normal de Boyce-Codd (BCNF)
+e) Quarta forma normal (4NF)
+
+23. Padrões de Projeto e Arquitetura de Software
+Em um sistema de monitoramento de estoque, é necessário observar mudanças nos níveis de produtos em tempo real e acionar automaticamente notificações para usuários interessados. Qual padrão de design é mais adequado para essa função?
+a) Singleton
+b) Observer
+c) Strategy
+d) Factory
+e) Decorator
+
+24. Segurança em Aplicações Web
+Um sistema de e-commerce armazena informações de cartões de crédito. Para garantir a conformidade com as normas de segurança de dados, qual prática é mais recomendada para proteção dessas informações?
+a) Armazenar as informações de cartão de crédito em um banco de dados seguro
+b) Usar tokens para representar informações sensíveis, evitando armazenar os dados diretamente
+c) Criptografar os dados com uma chave pública e compartilhar a chave privada com usuários
+d) Limitar o acesso a informações de cartões de crédito apenas a administradores
+e) Desabilitar logs de erro para requisições com dados de pagamento
+
+25. Programação Funcional
+Em um sistema que realiza processamento massivo de dados, uma das operações envolve o cálculo de valores com múltiplos passos sem alterar o estado global. Qual característica da programação funcional torna-a ideal para esse tipo de operação?
+a) Dependência de estados mutáveis
+b) Funções anônimas
+c) Imutabilidade
+d) Sobrecarga de operadores
+e) Encapsulamento
+
+26. Desenvolvimento Ágil e DevOps
+Em um ambiente DevOps, qual prática contribui para reduzir o tempo de entrega de novos recursos e aumentar a colaboração entre as equipes de desenvolvimento e operações?
+a) Testes manuais frequentes
+b) Manutenção de um cronograma fixo para releases
+c) Implementação de pipelines de CI/CD (Integração Contínua e Entrega Contínua)
+d) Controle rigoroso de acessos e permissões
+e) Atualização de hardware para ambientes de desenvolvimento
+
+27. Microservices e Gerenciamento de Dados
+Em uma arquitetura de microsserviços, cada serviço possui seu próprio banco de dados independente. Qual é a principal vantagem dessa abordagem?
+a) Redução de custo de infraestrutura
+b) Simplificação de backups
+c) Maior independência e escalabilidade dos serviços
+d) Centralização de dados para fácil acesso
+e) Diminuição da latência entre os microsserviços
+
+28. Internet das Coisas (IoT) e Computação em Borda
+Em uma fábrica conectada que utiliza sensores IoT para monitoramento, é necessário tomar decisões rápidas e processar dados em tempo real. Qual solução é mais indicada para reduzir a latência e otimizar a resposta do sistema?
+a) Armazenamento de dados na nuvem
+b) Processamento de dados em servidores centralizados
+c) Computação em borda (edge computing)
+d) Uso de protocolos de alta latência
+e) Agendamento de tarefas em intervalos diários
+
+29. Machine Learning e Análise de Dados
+Um sistema de recomendação utiliza Machine Learning para sugerir novos produtos aos usuários com base em suas preferências passadas. Qual técnica é mais apropriada para melhorar a precisão das recomendações?
+a) Regressão linear
+b) Algoritmos de clustering
+c) Árvores de decisão
+d) Regressão logística
+e) Redes neurais profundas
+
+30. Design de APIs e Boas Práticas
+Em uma API RESTful, é desejável evitar a exposição desnecessária de dados e melhorar a segurança da comunicação. Qual estratégia é recomendada para restringir o acesso a apenas usuários autenticados?
+a) Adicionar cache aos endpoints mais utilizados
+b) Implementar controle de acesso baseado em roles (RBAC)
+c) Remover todos os endpoints GET para dados sensíveis
+d) Utilizar conexões HTTP em vez de HTTPS
+e) Desabilitar logs de erro na API
+
+31. Gerenciamento de Projetos e Metodologias Ágeis
+Durante uma Sprint em uma equipe ágil, surgiram vários problemas que impactaram o progresso planejado. Em qual cerimônia ágil esses problemas e as lições aprendidas devem ser discutidos para melhorias contínuas no próximo ciclo?
+a) Sprint Planning
+b) Daily Stand-up
+c) Sprint Retrospective
+d) Sprint Review
+e) Backlog Refinement
+
+32. Segurança de Software e Autenticação
+Em um sistema bancário, é essencial garantir que cada usuário possa acessar apenas suas próprias informações. Qual método de autenticação e controle de acesso é mais indicado para implementar essa segurança no sistema?
+a) Autenticação baseada em senha simples
+b) Autenticação com token JWT e controle de acesso baseado em permissões
+c) Criptografia de dados em todas as transações
+d) Teste de intrusão regular
+e) Controle de acesso por IP
+
+33. Arquitetura de Software e APIs REST
+Ao desenvolver uma API RESTful que manipula dados confidenciais, qual prática deve ser adotada para garantir que informações sensíveis não sejam acessadas indevidamente?
+a) Permitir acesso direto ao banco de dados pelos clientes
+b) Implementar filtros de requisições nas rotas públicas
+c) Adotar autenticação baseada em tokens e criptografar dados sensíveis
+d) Utilizar cookies de sessão para autenticação
+e) Disponibilizar endpoints para acesso de qualquer origem
+
+34. Estruturas de Dados e Algoritmos
+Em um sistema de busca onde os usuários frequentemente pesquisam por palavras-chave, qual estrutura de dados seria mais eficiente para otimizar buscas prefixadas, como as de autocompletar?
+a) Array
+b) Lista encadeada
+c) Tabela hash
+d) Trie (Árvore de prefixos)
+e) Grafo não direcionado
+
+35. Machine Learning e Avaliação de Modelos
+Em um modelo de Machine Learning, um desenvolvedor quer avaliar o desempenho do modelo em classificações binárias. Qual métrica seria mais adequada para balancear precisão e recuperação em um conjunto de dados desbalanceado?
+a) Acurácia
+b) Precisão
+c) Recall
+d) F1-Score
+e) R² (coeficiente de determinação)
+
+36. Controle de Versão e Colaboração
+Em um projeto colaborativo usando Git, um desenvolvedor deseja combinar as mudanças feitas em várias branches e resolver conflitos sem comprometer a linha do tempo do projeto. Qual comando é mais indicado para mesclar branches com histórico de commits preservado?
+a) git merge --no-ff
+b) git rebase
+c) git reset
+d) git stash
+e) git push --force
+
+37. Arquitetura de Microsserviços e Comunicação
+Em uma arquitetura de microsserviços, diferentes serviços precisam trocar informações em tempo real e ser tolerantes a falhas. Qual solução de comunicação é mais indicada para esses requisitos?
+a) Comunicação síncrona com chamadas HTTP
+b) API Gateway com cache de respostas
+c) Comunicação assíncrona usando uma fila de mensagens
+d) Replicação de banco de dados entre os serviços
+e) Integração direta via SOAP
+
+38. Internet das Coisas (IoT) e Sensores
+Em um projeto IoT para monitoramento de saúde, um sensor é usado para medir a frequência cardíaca de um paciente. Qual tipo de sensor é ideal para captar e enviar esses dados de forma contínua?
+a) Sensor de pressão
+b) Sensor de temperatura
+c) Sensor de proximidade
+d) Sensor óptico de frequência cardíaca
+e) Sensor de movimento
+
+39. Testes de Segurança e Vulnerabilidades
+Durante o desenvolvimento de uma aplicação web, uma equipe identificou a necessidade de proteger o sistema contra ataques de “Cross-Site Scripting” (XSS). Qual das práticas a seguir é mais eficaz para evitar essa vulnerabilidade?
+a) Usar um certificado SSL para o site
+b) Sanitizar e escapar todas as entradas e saídas de dados do usuário
+c) Implementar uma política de controle de acesso
+d) Armazenar cookies em armazenamento local
+e) Aumentar a complexidade das senhas dos usuários
+
+40. Gerenciamento de Logs e Análise de Dados
+Em uma aplicação de monitoramento em tempo real, é essencial capturar e analisar eventos de log de forma contínua para identificação de anomalias. Qual estratégia é recomendada para lidar com grandes volumes de logs de forma eficiente e acessível?
+a) Armazenar logs em arquivos de texto simples no servidor
+b) Consolidar logs em uma base de dados SQL e consultar diariamente
+c) Enviar logs para uma plataforma de log centralizada com suporte a busca em tempo real
+d) Remover logs antigos para liberar espaço periodicamente
+e) Salvar logs em um sistema de backup offline
+
+-- Gabarito Comentado --
+
+1. Banco de Dados e SQL
+Resposta: c) Implementar particionamento de tabelas com base nas categorias de produtos
+Comentário: O particionamento melhora o desempenho de consultas em bancos de dados grandes, dividindo tabelas por categorias, o que reduz o volume de dados processados em cada consulta.
+
+2. Segurança de Sistemas e Criptografia
+Resposta: d) Armazenar senhas usando hashing com bcrypt e um salt único para cada senha
+Comentário: O bcrypt, combinado com salting, torna as senhas mais seguras contra ataques de força bruta e vazamentos, já que cada senha armazenada será única mesmo se idêntica.
+
+3. Estrutura de Dados e Algoritmos
+Resposta: d) Grafo ponderado
+Comentário: Grafos ponderados são adequados para representar redes de caminhos e estradas, permitindo a implementação de algoritmos como Dijkstra para encontrar o caminho mais curto.
+
+4. Internet das Coisas (IoT) e Protocolos de Comunicação
+Resposta: c) MQTT
+Comentário: O protocolo MQTT é leve e otimizado para transmissão de dados em redes IoT, permitindo comunicação eficiente com baixo consumo de energia.
+
+5. Programação Orientada a Objetos (POO)
+Resposta: d) Herança
+Comentário: A herança permite que classes como Aluno e Professor reutilizem atributos e métodos de uma classe base Pessoa, reduzindo a duplicação de código.
+
+6. Testes de Software
+Resposta: c) Teste de regressão
+Comentário: Testes de regressão verificam se alterações ou atualizações no sistema não introduzem erros em funcionalidades que já funcionavam.
+
+7. Segurança em Desenvolvimento de Sistemas
+Resposta: b) Implementar tokens CSRF e validar nas requisições autenticadas
+Comentário: Tokens CSRF protegem contra ataques de falsificação de requisições, garantindo que apenas o usuário autenticado possa realizar determinadas ações.
+
+8. Arquitetura de Sistemas
+Resposta: c) Implementar uma API gateway para orquestrar a comunicação entre os serviços
+Comentário: A API Gateway centraliza e orquestra a comunicação entre microsserviços, permitindo que os serviços sejam independentes e seguros.
+
+9. Segurança de Dados
+Resposta: d) Requer que a mesma chave seja compartilhada entre remetente e destinatário
+Comentário: Na criptografia simétrica, a mesma chave é usada para criptografar e descriptografar dados, tornando o compartilhamento seguro um desafio.
+
+10. Desenvolvimento de Aplicações Web e Front-end
+Resposta: c) Rate limiting
+Comentário: Rate limiting limita o número de requisições em um intervalo de tempo, protegendo a aplicação contra abusos e sobrecarga.
+
+11. Manutenção de Software
+Resposta: d) Manutenção adaptativa
+Comentário: A manutenção adaptativa ajusta o software para funcionar em novos ambientes, como mudanças de hardware, sem alterar sua funcionalidade.
+
+12. Engenharia de Requisitos
+Resposta: d) Requisito funcional
+Comentário: Requisitos funcionais definem o que o sistema deve fazer, como permitir que o usuário visualize o histórico de pedidos.
+
+13. Internet das Coisas (IoT) e Segurança
+Resposta: b) Implementação de encriptação ponta a ponta
+Comentário: A criptografia ponta a ponta protege a comunicação de dados IoT, garantindo que somente os dispositivos autorizados possam acessar as informações.
+
+14. Estruturas de Dados e Algoritmos
+Resposta: d) Quick Sort
+Comentário: O Quick Sort é eficiente para grandes volumes de dados e geralmente oferece boa performance, especialmente em listas parcialmente organizadas.
+
+15. Arquitetura de Sistemas e APIs
+Resposta: e) Consolidação de dados com requisições GraphQL
+Comentário: GraphQL permite que um cliente obtenha todos os dados necessários em uma única requisição, minimizando o tráfego e melhorando a eficiência.
+
+16. Programação Orientada a Objetos (POO) e Design Patterns
+Resposta: d) Builder
+Comentário: O padrão Builder facilita a criação de objetos complexos com várias combinações de atributos, como diferentes características de quartos em um sistema de reservas.
+
+17. Segurança em Aplicações Web
+Resposta: c) Usar Prepared Statements para evitar que os valores do usuário alterem a estrutura da consulta
+Comentário: Prepared Statements previnem ataques de injeção de SQL, pois não permitem que dados do usuário modifiquem a consulta SQL.
+
+18. Algoritmos e Estrutura de Dados
+Resposta: b) Fila de prioridade
+Comentário: A fila de prioridade permite que itens sejam removidos com base em sua prioridade, como mensagens temporárias que expiram após um certo tempo.
+
+19. Redes e Protocolo de Comunicação
+Resposta: b) UDP
+Comentário: O protocolo UDP é indicado para transmissões onde a velocidade é prioritária sobre a confiabilidade, como em streaming de vídeo.
+
+20. Testes de Software e Controle de Qualidade
+Resposta: d) Integração contínua (CI)
+Comentário: A Integração Contínua (CI) permite testes frequentes e automáticos do código, identificando rapidamente problemas nas novas implementações.
+
+21. Segurança e Criptografia de Dados
+Resposta: c) Criptografia homomórfica
+Comentário: A criptografia homomórfica permite o processamento de dados criptografados sem necessidade de descriptografá-los, protegendo a privacidade mesmo em sistemas de armazenamento na nuvem.
+
+22. Banco de Dados e Modelagem
+Resposta: b) Segunda forma normal (2NF)
+Comentário: A segunda forma normal elimina dependências parciais, o que ajuda a evitar duplicações de dados e melhora a integridade do banco.
+
+23. Padrões de Projeto e Arquitetura de Software
+Resposta: b) Observer
+Comentário: O padrão Observer é adequado para monitorar mudanças em um sistema em tempo real, notificando automaticamente partes interessadas.
+
+24. Segurança em Aplicações Web
+Resposta: b) Usar tokens para representar informações sensíveis, evitando armazenar os dados diretamente
+Comentário: Tokens substituem informações sensíveis, como cartões de crédito, reduzindo o risco de exposição de dados pessoais e aumentando a segurança.
+
+25. Programação Funcional
+Resposta: c) Imutabilidade
+Comentário: A imutabilidade em programação funcional ajuda a evitar efeitos colaterais e permite cálculos e transformações de dados sem modificar o estado global.
+
+26. Desenvolvimento Ágil e DevOps
+Resposta: c) Implementação de pipelines de CI/CD (Integração Contínua e Entrega Contínua)
+Comentário: CI/CD automatiza o ciclo de desenvolvimento, permitindo entregas rápidas e aumentando a colaboração entre desenvolvimento e operações.
+
+27. Microservices e Gerenciamento de Dados
+Resposta: c) Maior independência e escalabilidade dos serviços
+Comentário: A independência dos bancos de dados em cada microsserviço garante que eles possam ser escalados e geridos individualmente, aumentando a flexibilidade da arquitetura.
+
+28. Internet das Coisas (IoT) e Computação em Borda
+Resposta: c) Computação em borda (edge computing)
+Comentário: A computação em borda processa dados próximos ao dispositivo, reduzindo a latência e permitindo respostas rápidas em tempo real, ideal para IoT.
+
+29. Machine Learning e Análise de Dados
+Resposta: e) Redes neurais profundas
+Comentário: Redes neurais profundas podem identificar padrões complexos e melhorar as recomendações, oferecendo uma análise mais precisa baseada em grandes volumes de dados.
+
+30. Design de APIs e Boas Práticas
+Resposta: b) Implementar controle de acesso baseado em roles (RBAC)
+Comentário: O RBAC limita o acesso com base nos papéis dos usuários, garantindo que apenas usuários autorizados possam acessar dados sensíveis.
+
+31. Gerenciamento de Projetos e Metodologias Ágeis
+Resposta: c) Sprint Retrospective
+Comentário: A Sprint Retrospective é uma reunião realizada ao final de cada Sprint em metodologias ágeis para discutir problemas enfrentados e identificar melhorias para a equipe.
+
+32. Segurança de Software e Autenticação
+Resposta: b) Autenticação com token JWT e controle de acesso baseado em permissões
+Comentário: O uso de tokens JWT permite que cada usuário tenha permissões específicas, o que facilita o controle de acesso, garantindo segurança ao limitar o que cada usuário pode acessar.
+
+33. Arquitetura de Software e APIs REST
+Resposta: c) Adotar autenticação baseada em tokens e criptografar dados sensíveis
+Comentário: Autenticação por token e criptografia de dados garantem que apenas usuários autenticados acessem dados confidenciais, protegendo a API contra acessos não autorizados.
+
+34. Estruturas de Dados e Algoritmos
+Resposta: d) Trie (Árvore de prefixos)
+Comentário: A estrutura de dados Trie é eficiente para buscas prefixadas e otimiza funcionalidades como autocompletar, permitindo pesquisa rápida de palavras com o mesmo prefixo.
+
+35. Machine Learning e Avaliação de Modelos
+Resposta: d) F1-Score
+Comentário: O F1-Score é ideal para conjuntos de dados desbalanceados, pois equilibra precisão e recall, oferecendo uma métrica mais representativa para avaliar o modelo de Machine Learning.
+
+36. Controle de Versão e Colaboração
+Resposta: a) git merge --no-ff
+Comentário: O comando git merge --no-ff preserva o histórico de commits ao combinar branches, permitindo uma visualização mais clara das mudanças realizadas.
+
+37. Arquitetura de Microsserviços e Comunicação
+Resposta: c) Comunicação assíncrona usando uma fila de mensagens
+Comentário: A comunicação assíncrona por filas de mensagens permite que os microsserviços sejam independentes e tolerantes a falhas, reduzindo o impacto de interrupções.
+
+38. Internet das Coisas (IoT) e Sensores
+Resposta: d) Sensor óptico de frequência cardíaca
+Comentário: Um sensor óptico de frequência cardíaca é ideal para monitoramento contínuo, pois capta sinais de pulso a partir da variação de luz refletida, sendo amplamente utilizado em dispositivos vestíveis.
+
+39. Testes de Segurança e Vulnerabilidades
+Resposta: b) Sanitizar e escapar todas as entradas e saídas de dados do usuário
+Comentário: A sanitização e o escape de dados impedem que scripts maliciosos sejam executados, protegendo o sistema contra ataques de Cross-Site Scripting (XSS).
+
+40. Gerenciamento de Logs e Análise de Dados
+Resposta: c) Enviar logs para uma plataforma de log centralizada com suporte a busca em tempo real
+Comentário: Centralizar logs em uma plataforma de monitoramento permite análises em tempo real e é essencial para identificar rapidamente anomalias em sistemas com alto volume de eventos.
+
+=========================================
+
